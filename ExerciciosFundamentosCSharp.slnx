@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="Exercicio01/Exercicio01.csproj" />
   <Project Path="Exercicio02/Exercicio02.csproj" />
   <Project Path="Exercicio03/Exercicio03.csproj" />
@@ -17,5 +20,4 @@
   <Project Path="Exercicio17/Exercicio17.csproj" />
   <Project Path="Exercicio18/Exercicio18.csproj" />
   <Project Path="Exercicio19/Exercicio19.csproj" />
-  <Project Path="Exercício12/Exercício12.csproj" />
 </Solution>
